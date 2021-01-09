@@ -1,8 +1,8 @@
 membuat tugas akhir 
 - pertama bab 1 
-- kedua bab 2
-diberi sebuah font Arial
-diberi gambar teknik
+diberi sebuah gambar electical 
+menggunakan font times new roman 
+- kedua bab 2 
 - ketiga bab 3
 - keempat bab 4
 - kelima bab 5
