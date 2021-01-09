@@ -1,6 +1,8 @@
 membuat tugas akhir 
 - pertama bab 1 
-- kedua bab 2 
+- kedua bab 2
+diberi sebuah font Arial
+diberi gambar teknik
 - ketiga bab 3
 - keempat bab 4
 - kelima bab 5
